@@ -33,3 +33,14 @@ int main(){
   
   return 0;
 }
+
+
+// OUTPUT :-
+
+// Enter the size of array :- 5
+// Array of [0] :- 89
+// Array of [1] :- 56
+// Array of [2] :- 21
+// Array of [3] :- 24
+// Array of [4] :- 12
+// Sorted array :- 12 , 21 , 24 , 56 , 89 , 
