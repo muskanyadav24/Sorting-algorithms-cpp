@@ -50,3 +50,15 @@ int main(){
 
     return 0;
 }
+
+// OUTPUT :-
+
+// Enter the array size :- 5
+// Enter 5 elements :
+// Array of [0] :- 21
+// Array of [1] :- 3
+// Array of [2] :- 12
+// Array of [3] :- 43
+// Array of [4] :- 24
+// Unsorted Array :- 21 , 3 , 12 , 43 , 24 , 
+// Sorted Array :- 3 , 12 , 21 , 24 , 43 , 
